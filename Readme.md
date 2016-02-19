@@ -7,9 +7,9 @@
 This repository contains:
 
 - The powerpoint presentations:
-	- Introduction to diversity analysis [(File 1).](<https://github.com/carden24/MIC506-Workshop/blob/master/W1_16S_analysis.pptx>)
-	- Use of 16S rRNA as phylogenetic marker in diversity studies [(File 2).](<https://github.com/carden24/MIC506-Workshop/blob/master/W2_16S_analysis.pptx>)
-	- Mothur tutorial using the Miseq SOP [(File 3).](<https://github.com/carden24/MIC506-Workshop/blob/master/W3_16S_analysis.pptx>)
+	- Introduction to diversity analysis [(File 1).](<https://github.com/carden24/MIC506-Workshop/raw/master/W1_16S_analysis.pptx>)
+	- Use of 16S rRNA as phylogenetic marker in diversity studies [(File 2).](<https://github.com/carden24/MIC506-Workshop/raw/master/W2_16S_analysis.pptx>)
+	- Mothur tutorial using the Miseq SOP [(File 3).](<https://github.com/carden24/MIC506-Workshop/raw/master/W3_16S_analysis.pptx>)
   
   
 - The Miseq tutorial is based on the mothur Miseq:

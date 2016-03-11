@@ -19,7 +19,7 @@ This repository contains:
 	- You need a computer with Mothur installed. Installers are available [here](<http://www.mothur.org/wiki/Download_mothur>)_.
 	- The Silva-based bacterial reference alignment is [here.](<http://www.mothur.org/w/images/9/98/Silva.bacteria.zip>)
 	- Mothur-formatted version of the RDP training set v.9 is [here](<http://www.mothur.org/w/images/5/59/Trainset9_032012.pds.zip>)_.
-	- The data files required are [here]().
+	- The data files required are [here](https://github.com/carden24/MIC506-Workshop/tree/master/MiSeq_SOP_files).
   
   
 - Other resources:

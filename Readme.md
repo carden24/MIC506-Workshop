@@ -21,8 +21,6 @@ This repository contains:
 	- Mothur-formatted version of the RDP training set v.9 is [here](<http://www.mothur.org/w/images/5/59/Trainset9_032012.pds.zip>)_.
 	- The data files required are [here](https://github.com/carden24/MIC506-Workshop/tree/master/MiSeq_SOP_files).
   
-#  https://github.com/carden24/MIC506-Workshop/tree/master/MiSeq_SOP_files
-  
 - Other resources:
 	- Tree diversity analysis book by Roeland Kindt and Richard Coe.  
 	  A nice introduction to diversity analysis. Is also includes detailed R code.  

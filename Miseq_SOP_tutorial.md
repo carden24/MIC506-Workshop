@@ -163,10 +163,3 @@ Now
 ```
 classify.otu(list=current, count=current, taxonomy=current, label=0.03)
 ```
-
-#####
-Need to add export to BIOME
-
-####
-
- 
